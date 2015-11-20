@@ -46,6 +46,7 @@
     <Compile Include="Distributor.cs" />
     <Compile Include="DistributionFile.cs" />
     <Compile Include="IDeliveryService.cs" />
+    <Compile Include="IDeliveryTracker.cs" />
     <Compile Include="IEndpoint.cs" />
     <Compile Include="IEndpointRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
